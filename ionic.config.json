@@ -1,0 +1,7 @@
+{
+    "name": "Vue Ionic Cypress Component Testing",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "vue"
+}
